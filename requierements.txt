@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+librosa
+scikit-learn
+xgboost
+shap
+joblib
+tqdm
+openpyxl
